@@ -1,0 +1,9 @@
+{
+  "name": "hat",
+  "description": "Brown color hat",
+  "quantity": "5",
+  "price": "3",
+  "tax": "0.01",
+  "sku": "1",
+  "currency": "USD"
+}
